@@ -2,7 +2,7 @@
 using namespace std;
 
 
-// Not optimized !!!!!!!!!!!!!!!!!
+// Not optimized !!!!!!!!!!!!!!!!
 
 int fact(int x)
 {
